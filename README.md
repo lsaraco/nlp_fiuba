@@ -13,3 +13,15 @@
   1. Obtener palabras similares mediante similitud coseno.
 
 Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_1](https://github.com/lsaraco/nlp_fiuba/Desafio_1)
+
+
+  ## Desafío 2 - Word embeddings:
+
+  1. Tokenización usando funciones de preprocesamiento de texto de Keras.
+  1. Word embeddings usando modelos word2vec en Gensim.
+  1. Análisis de relación de términos a partir de embeddings.
+  1. Tests de analogías.
+  1. Proyección de embeddings en 2D y 3D para su visualización.
+  1. El desarrollo de este trabajo se realiza a partir de un dataset de recetas extraidas de Reddit.
+
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsaraco/nlp_fiuba/Desafio_2)
