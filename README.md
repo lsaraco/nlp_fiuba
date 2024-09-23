@@ -25,3 +25,12 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_1](https://github.com/lsarac
   1. El desarrollo de este trabajo se realiza a partir de un dataset de recetas extraidas de Reddit.
 
 Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsaraco/nlp_fiuba/Desafio_2)
+
+
+  ## Desafío 3 - Modelos de lenguaje:
+
+  1. Modelo de lenguaje para predecir palabras y generar secuencias.
+  1. Modelo de lenguaje para predecir caracteres y generar secuencias.
+  1. Utilizando diferentes arquitecturas de redes neuronales recurrentes: simpleRNN, LSTM y GRU.
+
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsaraco/nlp_fiuba/Desafio_3)
