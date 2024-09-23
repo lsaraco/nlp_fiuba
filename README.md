@@ -29,8 +29,8 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsarac
 
   ## Desafío 3 - Modelos de lenguaje:
 
-  1. Modelo de lenguaje para predecir palabras y generar secuencias.
-  1. Modelo de lenguaje para predecir caracteres y generar secuencias.
+  1. Modelo de lenguaje para predecir palabras y generar secuencias. [Notebook](https://github.com/lsaraco/nlp_fiuba/blob/main/Desafio_3/Palabras/Modelo_prediccion_palabras.ipynb)
+  1. Modelo de lenguaje para predecir caracteres y generar secuencias. [Notebook](https://github.com/lsaraco/nlp_fiuba/blob/main/Desafio_3/Caracteres/modelo_prediccion_caracteres.ipynb)
   1. Utilizando diferentes arquitecturas de redes neuronales recurrentes: simpleRNN, LSTM y GRU.
 
 Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsaraco/nlp_fiuba/Desafio_3)
