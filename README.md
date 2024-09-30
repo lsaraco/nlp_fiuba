@@ -12,7 +12,7 @@
 1. Clasificar documentos utilizando Naive Bayes (MultinomialNB y ComplementNB).
 1. Obtener palabras similares mediante similitud coseno.
 
-Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_1](https://github.com/lsaraco/nlp_fiuba/Desafio_1)
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_1](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_1)
 
 
 ## Desafío 2 - Word embeddings:
@@ -24,7 +24,7 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_1](https://github.com/lsarac
 1. Proyección de embeddings en 2D y 3D para su visualización.
 1. El desarrollo de este trabajo se realiza a partir de un dataset de recetas extraidas de Reddit.
 
-Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsaraco/nlp_fiuba/Desafio_2)
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_2)
 
 
 ## Desafío 3 - Modelos de lenguaje:
@@ -33,7 +33,7 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsarac
 1. Modelo de lenguaje para predecir caracteres y generar secuencias. [Notebook](https://github.com/lsaraco/nlp_fiuba/blob/main/Desafio_3/Caracteres/modelo_prediccion_caracteres.ipynb)
 1. Utilizando diferentes arquitecturas de redes neuronales recurrentes: simpleRNN, LSTM y GRU.
 
-Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsaraco/nlp_fiuba/Desafio_3)
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_3)
 
 
 ## Desafío 4 - QA Chatbot - Seq2Seq:
@@ -43,4 +43,4 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsarac
 1. Arquitectura encoder-decoder.
   1. Modelo para entrenamiento.
   1. Modelo autoregresivo para inferencia.
-Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_4](https://github.com/lsaraco/nlp_fiuba/Desafio_4)
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_4](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_4)
