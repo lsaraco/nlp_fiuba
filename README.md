@@ -36,7 +36,7 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsarac
 Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsaraco/nlp_fiuba/Desafio_3)
 
 
-## Desafío 3 - QA Chatbot - Seq2Seq:
+## Desafío 4 - QA Chatbot - Seq2Seq:
 
 1. Chatbot de preguntas y respuestas. [Dataset](http://convai.io/data/)
 1. Utilizando redes recurrentes LSTM y capas de embeddings (pre-entrenados de FastText).
