@@ -1,8 +1,9 @@
 # NLP (Procesamiento del lenguje natural) - FIUBA
 
+
 - En este repositorio se almacenarán los desafíos desarrollados durante el curso de NLP en la FIUBA.
 - Autor: Leandro Saraco
-- Fecha: Septiembre 2024
+- Fecha: Septiembre-Octubre 2024
 
 
 ## Desafío 1 - Vectorización:
@@ -43,4 +44,14 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsarac
 1. Arquitectura encoder-decoder.
   1. Modelo para entrenamiento.
   1. Modelo autoregresivo para inferencia.
+
 Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_4](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_4)
+
+## Desafío 5 - Sentiment analysis usando BERT
+
+1. Sentiment analysis utilizando pooled_output de BERT.
+1. Uso de transfer learning.
+1. Clasificación con capas densas a partir de pooled_output
+  1. Comparación de dos modelos diferentes.
+
+Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_5](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_5)
