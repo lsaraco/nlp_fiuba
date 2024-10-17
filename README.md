@@ -8,7 +8,10 @@
 
 ## Desafío 1 - Vectorización:
 
-1. Vectorización de documentos utilizando algoritmos del tipo BOG.
+<img src="https://raw.githubusercontent.com/lsaraco/nlp_fiuba/refs/heads/main/doc/imgs/bow.webp" width="40%">
+
+
+1. Vectorización de documentos utilizando algoritmos del tipo BOW.
 1. Medir similitud de documentos utilizando similitud coseno.
 1. Clasificar documentos utilizando Naive Bayes (MultinomialNB y ComplementNB).
 1. Obtener palabras similares mediante similitud coseno.
@@ -17,6 +20,8 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_1](https://github.com/lsarac
 
 
 ## Desafío 2 - Word embeddings:
+
+<img src="https://raw.githubusercontent.com/lsaraco/nlp_fiuba/refs/heads/main/doc/imgs/tokenizer.webp" width="40%">
 
 1. Tokenización usando funciones de preprocesamiento de texto de Keras.
 1. Word embeddings usando modelos word2vec en Gensim.
@@ -30,6 +35,8 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_2](https://github.com/lsarac
 
 ## Desafío 3 - Modelos de lenguaje:
 
+<img src="https://raw.githubusercontent.com/lsaraco/nlp_fiuba/refs/heads/main/doc/imgs/language_model.webp" width="40%">
+
 1. Modelo de lenguaje para predecir palabras y generar secuencias. [Notebook](https://github.com/lsaraco/nlp_fiuba/blob/main/Desafio_3/Palabras/Modelo_prediccion_palabras.ipynb)
 1. Modelo de lenguaje para predecir caracteres y generar secuencias. [Notebook](https://github.com/lsaraco/nlp_fiuba/blob/main/Desafio_3/Caracteres/modelo_prediccion_caracteres.ipynb)
 1. Utilizando diferentes arquitecturas de redes neuronales recurrentes: simpleRNN, LSTM y GRU.
@@ -38,6 +45,8 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsarac
 
 
 ## Desafío 4 - QA Chatbot - Seq2Seq:
+
+<img src="https://raw.githubusercontent.com/lsaraco/nlp_fiuba/refs/heads/main/doc/imgs/seq2seq.webp" width="40%">
 
 1. Chatbot de preguntas y respuestas. [Dataset](http://convai.io/data/)
 1. Utilizando redes recurrentes LSTM y capas de embeddings (pre-entrenados de FastText).
@@ -48,6 +57,8 @@ Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_3](https://github.com/lsarac
 Link: [https://github.com/lsaraco/nlp_fiuba/Desafio_4](https://github.com/lsaraco/nlp_fiuba/tree/main/Desafio_4)
 
 ## Desafío 5 - Sentiment analysis usando BERT
+
+<img src="https://raw.githubusercontent.com/lsaraco/nlp_fiuba/refs/heads/main/doc/imgs/app_review.webp" width="40%">
 
 1. Sentiment analysis utilizando pooled_output de BERT.
 1. Uso de transfer learning.
